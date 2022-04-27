@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>co.com.viveres.susy.microservice-config-server</groupId>
-	<artifactId>microservice-config-server</artifactId>
+	<artifactId>tds-microservice-config-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>microservice-config-server</name>
+	<name>tds-microservice-config-server</name>
 	<description>Microservice Config Server</description>
 	<properties>
 		<java.version>11</java.version>
